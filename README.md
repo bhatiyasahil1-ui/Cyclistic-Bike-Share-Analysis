@@ -20,7 +20,7 @@ Cyclistic aims to maximize annual memberships for business growth. This analysis
 
 ## 🔗 Live Deliverables & Interactive Links
 * 📂 **Interactive Google Sheets Dashboard:** [Click Here to View Live Spreadsheet](https://docs.google.com/spreadsheets/d/1ikl0Et0tPYyjwHH1sivEZYD_SjHiwX7imAXcl8LtLx4/edit?usp=sharing)
-* 🐍 **Python Analysis Notebook:** Refer to `Untitled1.ipynb` in this repository for full EDA code.
+* 🐍 **Python Analysis Notebook:** Refer to `Cyclistic_Bike_Share_Analysis.ipynb` in this repository for full EDA code.
 
 ---
 
